@@ -8,7 +8,7 @@ body{
     border: none;
     background-color: #fff;
     font-size: 1.5rem;
-    color: #fca61f;
+    color: #344C64;
 }
 /* styling navbar links  */
 .navbar-nav a{
@@ -16,7 +16,7 @@ body{
     position: relative;
 }
 .navbar-nav a:hover{
-    color: #fca61f;
+    color: #344C64;
 }
 .navbar-nav a:after {    
     background: none repeat scroll 0 0 transparent;
@@ -27,7 +27,7 @@ body{
     left: 50%;
     top: 35px;
     position: absolute;
-    background: #fca61f;
+    background: #344C64;
     transition: width 0.3s ease 0s, left 0.3s ease 0s;
     width: 0;
   }
@@ -38,7 +38,7 @@ body{
   /* styling contact btn  */
 .c-btn{
     border: none;
-    background: #fca61f;
+    background: #344C64;
     color: #fff;
     font-size: 1.2rem;
 }
@@ -52,7 +52,7 @@ body{
     line-height: 4rem;
 }
 .c-orange{
-    color: #6f34fe;
+    color: #57A6A1;
     font-weight: 700;
     font-size: 4rem;
 }
@@ -62,7 +62,7 @@ body{
     font-size: 1.2rem;
 }
 .h-btn:hover{
-    background: #6f34fe;
+    background: #57A6A1;
     color: #fff;
     transform: translateY(-20px);
     transition-duration: 1s;
@@ -70,7 +70,7 @@ body{
 .link{
     text-decoration: none;
     font-size: 1.2rem;
-    color: #fca61f;
+    color: #344C64;
     position: relative;
 }
 .link::after{
@@ -82,12 +82,12 @@ body{
     bottom: 0;
     left: 0;
     top: 20px;
-    background-color: #6f34fe;
+    background-color: #57A6A1;
     transform-origin: bottom right;
     transition: transform 0.25s ease-out;
 }
 .link:hover{
-    color: #6f34fe;
+    color: #57A6A1;
 }
 .link:hover::after{
     transform: scaleX(1);
@@ -112,7 +112,7 @@ body{
 
 /* expertise section starts */
 .heading small{
-    color: #6f34fe;
+    color: #57A6A1;
     font-size: 1.5rem;
     font-weight: 600;
 }
@@ -128,10 +128,10 @@ body{
 }
 .expertise a{
     text-decoration: none;
-    color: #fca61f;
+    color: #344C64;
 }
 .expertise a:hover{
-    color: #6f34fe;
+    color: #57A6A1;
 }
 .expertise .service-card{
     text-align: center;
@@ -177,10 +177,10 @@ body{
     font-weight: 600;
 }
 .html-progress{
-    color: #fca61f;
+    color: #344C64;
 }
 .javascript-progress{
-    color: #6f34fe;
+    color: #57A6A1;
 }
 .php-progress{
     color: #20c997;
@@ -211,7 +211,7 @@ body{
   margin: 0 25px;
 }
 #myBtnContainer button:hover{
-    color: #fca61f;
+    color: #344C64;
 }
 
 #myBtnContainer button:focus{
@@ -235,7 +235,7 @@ body{
 }
 .testimonial i{
     font-size: 2.9rem;
-    color: #fca61f;
+    color: #344C64;
     
 }
 .testimonial .nextprev-btn{
@@ -243,12 +243,12 @@ body{
     background-color: #fff;
 }
 .prev:hover,.prev-btn:hover{
-    color:#6f34fe;
+    color:#57A6A1;
     transform: translateX(-10px);
     transition-duration: 1s;
 }
 .next:hover,.next-btn:hover{
-    color:#6f34fe;
+    color:#57A6A1;
     transform: translateX(10px);
     transition-duration: 1s;
 }
@@ -266,7 +266,7 @@ body{
 }
 
 .blog .blogpost small{
-    color: #6f34fe;
+    color: #57A6A1;
     font-size: 1.1rem;
 }
 .blog .blogpost h4,.blogpost a{
@@ -276,15 +276,15 @@ body{
     text-decoration: none;
 }
 .blogpost a:hover{
-    color: #fca61f;
+    color: #344C64;
 }
 .blog .blogpost .read-more-btn{
     text-decoration: none;
-    color: #fca61f;
+    color: #344C64;
     font-size: 1.1rem;
 }
 .blog .blogpost .read-more-btn:hover{
-    color: #6f34fe;
+    color: #57A6A1;
 }
 /* styling modal group  */
 .btn-c{
@@ -296,14 +296,14 @@ body{
     margin-top: -3%;
 }
 .btn-c i{
-    color: #fca61f;
+    color: #344C64;
 }
 .modal-body .content span{
     font-size: 1rem;
 }
 .modal-body .content small{
     font-size: 1rem;
-    color: #6f34fe;
+    color: #57A6A1;
 }
 /* contact section starts */
 .contact{
@@ -311,7 +311,7 @@ body{
 }
 .contact-details i{
     font-size: 1.5rem;
-    color: #fca61f;
+    color: #344C64;
 }
 .contact-details p{
     font-size: 1.2rem;
@@ -319,7 +319,7 @@ body{
 }
 .contact-form .form-control:focus{
     box-shadow: none;
-    border: 1px solid #fca61f;
+    border: 1px solid #344C64;
 }
 .contact-form .form-control{
     padding: 10px 10px;
@@ -340,7 +340,7 @@ footer .link-group a{
     margin-top: 1rem;
 }
 footer .link-group a:hover{
-    color: #fca61f;
+    color: #344C64;
 }
 .social-links button{
     border: none;
@@ -380,7 +380,7 @@ footer .link-group a:hover{
     right: 40px;
     display: none;
     font-size: 1.4rem;
-    background-color: #fca61f;
+    background-color: #344C64;
     color: #fff;
     animation: pulse 3s infinite;
 }
